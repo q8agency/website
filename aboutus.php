@@ -106,9 +106,9 @@
 Kuwait Digital Agency, has been an active part of the ever growing Kuwait IT industry for the past several years, with enviable list of successful projects well supported by a highly skilled task force. .
 We are a sophisticated design agency offering services in the field of Digital Media , Print media, Mobile Apps development, Social media management and PR services .
 <p dir="ltr">With successful diversified projects &amp; satisfied customers across Private and Public sector Organizations, Ministry Personalities, Oil Industry, E-commerce, Medical, General Trading, Shopping &amp; Entertainment Industries, we have positioned our name as one of the pioneer in the digital field.</p>
-<p dir="ltr">Our Services</p>
+<h3 dir="ltr">Our Services</h3>
 <p dir="ltr">&nbsp;</p>
-<h2 dir="ltr">CORPORATE BRANDING</h2>
+<h5 dir="ltr">CORPORATE BRANDING</h5>
 <ul>
   <li dir="ltr">
     <p dir="ltr">Logos</p>
@@ -141,7 +141,7 @@ We are a sophisticated design agency offering services in the field of Digital M
     <p dir="ltr">Corporate Presentations</p>
   </li>
 </ul>
-<h2 dir="ltr">PRINT MEDIA</h2>
+<h5 dir="ltr">PRINT MEDIA</h5>
 <ul>
   <li dir="ltr">
     <p dir="ltr">Annual Reports</p>
@@ -153,7 +153,7 @@ We are a sophisticated design agency offering services in the field of Digital M
     <p dir="ltr">Newsletters</p>
   </li>
 </ul>
-<h2 dir="ltr">MOBILE DEVELOPMENT</h2>
+<h5 dir="ltr">MOBILE DEVELOPMENT</h5>
 <ul>
   <li dir="ltr">
     <p dir="ltr">Responsive Websites</p>
@@ -162,7 +162,7 @@ We are a sophisticated design agency offering services in the field of Digital M
     <p dir="ltr">Native App Development</p>
   </li>
 </ul>
-<h2 dir="ltr">SOCIAL MEDIA</h2>
+<h5 dir="ltr">SOCIAL MEDIA</h5>
 <ul>
   <li dir="ltr">
     <p dir="ltr">Page Branding</p>
